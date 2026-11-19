@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Egor
 
-<!--
-**upeakus/upeakus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Robotics student at the Technical University of Moldova and junior system administrator, based in Chisinau, Moldova.
 
-Here are some ideas to get you started:
+## What I do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python scripts and automation, Telegram bots, web scrapers, website and server uptime monitors, SQL and SQLite databases and reports.
+
+## Tech
+
+Python, SQL, SQLite, Linux, Git, Proxmox, Telegram Bot API
+
+## Languages
+
+Russian, Romanian, English
+
+## Work with me
+
+Upwork: https://www.upwork.com/freelancers/~0188b74dfd6aafb307
+
+Telegram: https://t.me/dasmii
+
+Email: egor.irimciuc@gmail.com
+
+## Projects
+
+I am publishing my first projects here. Check the repositories tab.
